@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 <h1>Main Page</h2>
 <p> hello i am eleni </p>
+=======
+<h1>Main Page</h1>
+
+
+
+
+
+>>>>>>> f3a1669aadab5805f341c882c22a77778d3487d0

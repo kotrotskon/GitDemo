@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1>Main Page</h2>
 <p> hello i am eleni </p>
 =======
@@ -9,3 +10,7 @@
 
 
 >>>>>>> f3a1669aadab5805f341c882c22a77778d3487d0
+=======
+<h1>Main Page</h2>
+<p>hello i'm kostas</p>
+>>>>>>> ed46245d6ccef774e44f29ecc00392a6ab63a8c1

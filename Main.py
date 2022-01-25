@@ -6,3 +6,6 @@ def something:
     
 def hi:
     print('Hi to all')
+
+def bonjour:
+    print ('Hello')

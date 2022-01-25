@@ -3,3 +3,6 @@ def hello:
     
 def hi:
     print('Hi to all')
+
+def bonjour:
+    print ('Hello')

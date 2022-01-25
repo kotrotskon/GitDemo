@@ -2,7 +2,7 @@ def hello:
     print('hello main')
     
 def something:
-    print('some text')
+    print('some text2')
     
 def hi:
     print('Hi to all')
